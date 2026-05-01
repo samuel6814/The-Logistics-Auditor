@@ -1,0 +1,21 @@
+# Olist E-Commerce Raw Dataset Files
+olist_orders_dataset.csv
+olist_order_reviews_dataset.csv
+olist_customers_dataset.csv
+olist_products_dataset.csv
+product_category_name_translation.csv
+veridi_clean_logistics.csv
+
+# Safety catch-all for any other data files
+*.csv
+
+# Jupyter Notebook auto-saves and checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache and environment files (if working locally)
+__pycache__/
+*.pyc
+.env
+venv/
+env/
